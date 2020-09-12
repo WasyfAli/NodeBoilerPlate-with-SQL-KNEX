@@ -2,7 +2,7 @@
 
 let configKeys = require("./config/keys");
 
-console.log(configKeys);
+// console.log(configKeys);
 module.exports = {
   development: {
     client: "mysql",

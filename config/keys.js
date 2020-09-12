@@ -2,8 +2,8 @@ module.exports = {
   client: "mysql",
   connection: {
     host: "localhost",
-    user: "root",
-    database: "khalid",
-    password: "redhat",
+    user: "YOUR_DB_USERNAME",
+    database: "YOUR_DB_NAME",
+    password: "YOUR_DB_PASSWORD",
   },
 };
