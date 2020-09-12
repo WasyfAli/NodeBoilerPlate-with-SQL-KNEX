@@ -1,4 +1,4 @@
-# NodeBoilerPlate-with-SQL-KNEX
+# NodeBoilerPlate-with-SQL-KNEX & CRUD Operations
 1- Install NODEJS & MYSQL in your system
 2- Install knex globally with command - (#npm install knex -g)
 3- Clone this project
