@@ -1,7 +1,7 @@
 pipeline{
         agent any
-        stage {
-                stages('BUILD COMMANDS'){
+        stages {
+                stage('BUILD COMMANDS'){
                         steps{
                                 script{
                                         sh 'ls'
