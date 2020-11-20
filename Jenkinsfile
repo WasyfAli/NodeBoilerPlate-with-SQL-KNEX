@@ -6,7 +6,7 @@ pipeline{
                                 script{
                                         sh 'ls'
                                         sh 'pwd'
-                                        sh 'npm install'
+                                        bash 'npm install'
                                         }
                                 }
                         }
